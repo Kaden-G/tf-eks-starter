@@ -1,6 +1,3 @@
-Here’s a concise, no-fluff README you can drop into your repo:
-
----
 
 # tf-eks-starter
 
@@ -51,6 +48,3 @@ kubectl get netpol -A
 * Add ALB Ingress + demo app for canary rollout
 * Expand runbook with full rollback procedures
 
----
-
-Want me to also tailor the README with Terraform module links and AWS docs references (so anyone can dive deeper right away), or keep it as lean as above?
